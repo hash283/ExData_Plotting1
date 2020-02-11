@@ -1,3 +1,4 @@
+#Please download household_power_consumption.txt file seperately and store in the same diretory as the .R files
 file<-"household_power_consumption.txt"
 
 #if dataframe does not exist,read table and store it in a dataframe
